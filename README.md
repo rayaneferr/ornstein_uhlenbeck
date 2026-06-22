@@ -1,6 +1,6 @@
 # EDS d'Ornstein-Uhlenbeck — Simulation & validation
 
-Projet de finance quantitative réalisé à l'**ENSEIRB-MATMECA**. On y étudie le processus
+Projet de finance quantitative. On y étudie le processus
 d'Ornstein-Uhlenbeck (OU), un processus à retour à la moyenne très utilisé en finance
 (taux d'intérêt, *pair trading*, modèle de Vasicek). L'objectif est de **simuler l'EDS
 numériquement** et de **confronter les résultats aux formules théoriques** établies à la main
